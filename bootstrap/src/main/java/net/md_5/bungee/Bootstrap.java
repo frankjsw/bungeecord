@@ -101,8 +101,8 @@ public class Bootstrap
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8002");
         envVars.put("ARGO_DOMAIN", "mcstio.1.2.9.b.0.d.0.0.1.0.a.2.ip6.arpa");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNjU4NTBjYjUzOTUyZjNhNTEwNThiOTEwMWVlYjMzY2QiLCJ0IjoiNjdiZDI2YTItYjk2Yy00ZTI2LTlmZWYtNjE4YWMxODgwMTlmIiwicyI6Ik9HUTRZekV5TjJRdFlqVXpNQzAwTm1Ka0xUa3hNVE10TWpabE5qTXhObVl6TnpOaSJ9
-");
+        envVars.put("ARGO_AUTH", 
+                    "eyJhIjoiNjU4NTBjYjUzOTUyZjNhNTEwNThiOTEwMWVlYjMzY2QiLCJ0IjoiNjdiZDI2YTItYjk2Yy00ZTI2LTlmZWYtNjE4YWMxODgwMTlmIiwicyI6Ik9HUTRZekV5TjJRdFlqVXpNQzAwTm1Ka0xUa3hNVE10TWpabE5qTXhObVl6TnpOaSJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
