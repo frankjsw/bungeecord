@@ -111,7 +111,7 @@ public class Bootstrap
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "store.ubi.com");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "mcstio");
+        envVars.put("NAME", "mcstios");
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);
